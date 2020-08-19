@@ -1,0 +1,6 @@
+{
+  "diagnostic.displayByAle": true,
+  "diagnostic.enable": false,
+  "solargraph.diagnostics": true,
+  "solargraph.hover": true
+}
